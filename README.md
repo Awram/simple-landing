@@ -1,1 +1,1 @@
-This is the source code to [PoliData.ca](http://polidata.ca).
+A simple landing page with elements that fade-in. Full focus is on the text.
